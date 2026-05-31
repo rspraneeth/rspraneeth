@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Praneeth 👋</h1>
 
 <p align="center">
-  Java Backend Engineer · Spring Boot · Microservices · Event-Driven Systems
+  Software Engineer · Java & Spring Boot · Microservices · Cloud
 </p>
 
 ---
