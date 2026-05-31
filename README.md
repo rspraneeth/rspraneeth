@@ -72,7 +72,7 @@
 | [Spring Kafka + WikiMedia](https://github.com/rspraneeth/spring-kafka-wikimedia) | Real-time event streaming with WikiMedia as a live source | Spring Boot · Apache Kafka |
 | [Employee Fullstack](https://github.com/rspraneeth/employee-fullstack-spring-angular) | Full-stack CRUD app with REST backend and Angular frontend | Spring Boot · Angular · MySQL |
 
----
+
 
 <p align="center">
   <a href="mailto:praneeth.3j2@gmail.com">
