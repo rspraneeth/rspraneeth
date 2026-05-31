@@ -12,7 +12,7 @@
 - Hands-on with **Spring Cloud** (Eureka, API Gateway, OpenFeign, Redis, distributed tracing) and event-driven systems with **Apache Kafka**
 - Strong focus on **clean architecture** — validation pipelines, audit logging, caching strategies, and dead letter queues
 - Actively sharpening DSA on [NeetCode](https://github.com/rspraneeth/neetcode-submissions)
-- Available for **Java backend engineering roles**
+- Available for **backend / software engineering roles**
 
 ---
 
@@ -39,6 +39,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 **Testing**
 
@@ -49,6 +50,7 @@
 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
