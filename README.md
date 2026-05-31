@@ -75,7 +75,7 @@
 
 
 <p align="center">
-  <a href="mailto:praneeth.3j2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:praneethreddi97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/praneethrsp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rspraneeth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
