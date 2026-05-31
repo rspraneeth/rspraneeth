@@ -58,6 +58,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [NotifyFlow](https://github.com/rspraneeth/notifyflow) | Enterprise-grade event-driven notification pipeline — validates, enriches, routes, and delivers via Email/SMS/Push with full audit logging | Spring Boot · Kafka · Redis · PostgreSQL · Docker |
 | [QwikTix](https://github.com/rspraneeth/event-management-system) | Event booking & management platform with admin UI | Spring Boot · Spring Security · Thymeleaf · AWS S3 |
 | [Spring Cloud Microservices](https://github.com/rspraneeth/spring-cloud-microservices) | Service mesh with Eureka, Gateway, OpenFeign, Redis & tracing | Spring Cloud · Redis · Docker |
 | [Quiz App Microservices](https://github.com/rspraneeth/quiz-app-microservices) | Question & quiz services behind an API gateway | Spring Boot · PostgreSQL · Eureka |
