@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Praneeth 👋</h1>
 
 <p align="center">
-  Software Engineer · Java & Spring Boot · Microservices · Cloud
+  Software Engineer · Java & Spring Boot · Microservices · Cloud · AI/LLM
 </p>
 
 ---
@@ -11,6 +11,7 @@
 - Designing and building **production-ready backends** with Spring Boot — REST APIs, security, messaging, and microservices
 - Hands-on with **Spring Cloud** (Eureka, API Gateway, OpenFeign, Redis, distributed tracing) and event-driven systems with **Apache Kafka**
 - Strong focus on **clean architecture** — validation pipelines, audit logging, caching strategies, and dead letter queues
+- Exploring **AI/LLM engineering** from first principles — built RAG pipelines, MCP servers, agent loops, and LangGraph agents from scratch using local models (Ollama)
 - Actively sharpening DSA on [NeetCode](https://github.com/rspraneeth/neetcode-submissions)
 - Available for **backend / software engineering roles**
 
@@ -33,6 +34,14 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+
+**AI & LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5B4BF5?style=flat&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat&logoColor=white)
 
 **Databases**
 
@@ -61,7 +70,21 @@
 
 ---
 
-### Featured Projects
+### AI / LLM Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [retrieval-only-RAG](https://github.com/rspraneeth/retrieval-only-RAG) | RAG tool that exposes itself as an MCP server — IDE agents handle generation, the server handles retrieval | Python · MCP · ChromaDB · sentence-transformers |
+| [chromadb-learning](https://github.com/rspraneeth/chromadb-learning) | Production-grade RAG on ChromaDB — real documents, overlap chunking, and `recall@k` evals with three retrieval traps documented | Python · ChromaDB · LangChain · Ollama |
+| [langgraph-learning](https://github.com/rspraneeth/langgraph-learning) | LangGraph ReAct agent with controlled experiments: framework vs. model, and lying-tool vulnerability across the full stack | Python · LangGraph · LangChain · Ollama |
+| [mcp-agent](https://github.com/rspraneeth/mcp-agent) | Hand-built agent consuming an MCP server as a pure client — demonstrates exactly where a better model helps and where it can't | Python · MCP · Ollama |
+| [agent-learning](https://github.com/rspraneeth/agent-learning) | Agent loop from scratch — maps non-determinism, dependent chaining, and the defensive scaffolding every agent needs | Python · Ollama |
+| [mcp-learning](https://github.com/rspraneeth/mcp-learning) | Minimal MCP server with FastMCP — tool selection, lying-tool behavior, and what a docstring does to an LLM | Python · FastMCP · MCP |
+| [basic-rag](https://github.com/rspraneeth/basic-rag) | RAG from scratch with no frameworks — embeddings, cosine similarity, and grounding a local LLM | Python · sentence-transformers · Ollama |
+
+---
+
+### Backend Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -71,8 +94,6 @@
 | [Quiz App Microservices](https://github.com/rspraneeth/quiz-app-microservices) | Question & quiz services behind an API gateway | Spring Boot · PostgreSQL · Eureka |
 | [Spring Kafka + WikiMedia](https://github.com/rspraneeth/spring-kafka-wikimedia) | Real-time event streaming with WikiMedia as a live source | Spring Boot · Apache Kafka |
 | [Employee Fullstack](https://github.com/rspraneeth/employee-fullstack-spring-angular) | Full-stack CRUD app with REST backend and Angular frontend | Spring Boot · Angular · MySQL |
-
-
 
 <p align="center">
   <a href="mailto:praneethreddi97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
