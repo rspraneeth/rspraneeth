@@ -12,7 +12,6 @@
 - Hands-on with **Spring Cloud** (Eureka, API Gateway, OpenFeign, Redis, distributed tracing) and event-driven systems with **Apache Kafka**
 - Strong focus on **clean architecture** — validation pipelines, audit logging, caching strategies, and dead letter queues
 - Exploring **AI/LLM engineering** from first principles — built RAG pipelines, MCP servers, agent loops, and LangGraph agents from scratch using local models (Ollama)
-- Actively sharpening DSA on [NeetCode](https://github.com/rspraneeth/neetcode-submissions)
 - Available for **backend / software engineering roles**
 
 ---
